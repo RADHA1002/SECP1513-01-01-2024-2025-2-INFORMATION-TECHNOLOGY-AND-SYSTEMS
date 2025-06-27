@@ -4,13 +4,12 @@ As a primer subject, this course will introduce students to information systems 
 Chapter 1: Emerging Technology in ICT
 
 Chapter 2: Hardware
-Jigsaw Group Work (Mix & Teach)![image](https://github.com/user-attachments/assets/0ccc30a5-dc9d-4417-a6c0-fdc11211d528)
-Jigsaw Group-Individual reflection https://elearnppsm.utmspace.edu.my/mod/assign/view.php?id=102091
+Jigsaw Group Work (Mix & Teach)
+Jigsaw Group-Individual reflection
 
 
 Chapter 3: Software
 Open-ended questions (based on the lecture note)
-https://elearnppsm.utmspace.edu.my/mod/assign/view.php?id=110140
 
 Chapter 4: Information Systems & Methodology
 
