@@ -3,13 +3,14 @@ As a primer subject, this course will introduce students to information systems 
 
 Chapter 1: Emerging Technology in ICT
 
-![image](https://github.com/user-attachments/assets/38155db1-647c-40ad-b7c1-a4546c15747d)
-<img src="images/screenshot.png" width="100" />
+![image](https://github.com/user-attachments/assets/8220db29-1865-4627-b9d8-eecfe24e6ad5)
+
 
 
 
 
 Chapter 2: Hardware
+
 ![image](https://github.com/user-attachments/assets/856541c8-0484-4b54-876b-625560dea8ee)
 
 
@@ -21,15 +22,31 @@ Jigsaw Group-Individual reflection
 
 Chapter 3: Software
 
+![image](https://github.com/user-attachments/assets/5180b070-f768-409b-ba6a-644ce93f01d0)
+
 Open-ended questions (based on the lecture note)
 
 Chapter 4: Information Systems & Methodology
 
+![image](https://github.com/user-attachments/assets/5958108e-05b3-42c6-97fd-6c9917af6a8f)
+
+
 Chapter 5: Databases and Data Analytics
+
+![image](https://github.com/user-attachments/assets/d30b58c6-2f03-43dc-a449-cdbffac74a41)
+
 
 Chapter 6: Networks and Communications
 
+![image](https://github.com/user-attachments/assets/1d3ba94e-f400-4e0c-a197-328b1cf99251)
+
+
 Chapter 7: Privacy, Security and Ethics
 
+![image](https://github.com/user-attachments/assets/71dd8263-556d-4ab6-8ac7-c2af3ee3f069)
+
+
 Chapter 8: Cloud Computing
+
+![image](https://github.com/user-attachments/assets/3352a03b-1636-4447-a3a2-57209ebb98db)
 
