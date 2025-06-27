@@ -1,1 +1,2 @@
-[Watch on YouTube](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=YbCF6OqTWug&list=RDYbCF6OqTWug&start_radio=1)
+[![Watch the video](https://img.youtube.com/vi/G494gx8Q5Bc/hqdefault.jpg)](https://youtu.be/G494gx8Q5Bc)
+
