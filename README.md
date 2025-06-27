@@ -1,7 +1,6 @@
 # SECP1513-01-01-2024-2025-2-INFORMATION-TECHNOLOGY-AND-SYSTEMS
 As a primer subject, this course will introduce students to information systems and technology (IS/IT) and its uses at home and work. Various aspects of IS/IT encompassing hardware, software, network and communications will be introduced. Students will be equipped with basic skills in handling PC installation and productivity tools via practical work in the labs, which shall comprise a major part of the study. This class also conducts industry visits and talks as a part of work-based learning. Both industry visits and talks will expose students to a real working environment, get knowledge from the industry and increase engagement between university and industry. The student also needs to briefly explore the requirements and job specifications for a career in IT. Overview of Tis:
 
-![image](https://github.com/user-attachments/assets/a9097417-8d56-4e3c-b8e3-99eca7dd737b)<p align="center">
   <img src="https://github.com/user-attachments/assets/a9097417-8d56-4e3c-b8e3-99eca7dd737b" width="400" />
 </p>
 
