@@ -11,7 +11,7 @@ Chapter 1: Emerging Technology in ICT
 
 Chapter 2: Hardware
 
-![image](https://github.com/user-attachments/assets/856541c8-0484-4b54-876b-625560dea8ee)
+![image](https://github.com/user-attachments/assets/8290e1c6-66b2-4ce6-b5cc-b2623ce8d920)
 
 
 
