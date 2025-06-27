@@ -3,7 +3,9 @@ As a primer subject, this course will introduce students to information systems 
 
 Chapter 1: Emerging Technology in ICT
 
-![image](https://github.com/user-attachments/assets/38155db1-647c-40ad-b7c1-a4546c15747d)
+![image](https://github.com/user-attachments/assets/38155db1-647c-40ad-b7c1-a4546c15747d)<p align="center">
+  <img src="images/screenshot.png" width="400" />
+</p>
 
 
 
