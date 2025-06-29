@@ -12,19 +12,11 @@ Chapter 1: Emerging Technology in ICT
 </p>
 
 
-
-
-
 Chapter 2: Hardware
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8290e1c6-66b2-4ce6-b5cc-b2623ce8d920" width="400" />
 </p>
-
-
-Jigsaw Group Work (Mix & Teach)
-
-Jigsaw Group-Individual reflection
 
 
 Chapter 3: Software
@@ -33,7 +25,6 @@ Chapter 3: Software
   <img src="https://github.com/user-attachments/assets/5180b070-f768-409b-ba6a-644ce93f01d0" width="400" />
 </p>
 
-Open-ended questions (based on the lecture note)
 
 Chapter 4: Information Systems & Methodology
 
@@ -42,13 +33,11 @@ Chapter 4: Information Systems & Methodology
 </p>
 
 
-
 Chapter 5: Databases and Data Analytics
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d30b58c6-2f03-43dc-a449-cdbffac74a41" width="400" />
 </p>
-
 
 
 Chapter 6: Networks and Communications
@@ -63,7 +52,6 @@ Chapter 7: Privacy, Security and Ethics
 <p align="center">
   <img src="https://github.com/user-attachments/assets/71dd8263-556d-4ab6-8ac7-c2af3ee3f069" width="400" />
 </p>
-
 
 
 Chapter 8: Cloud Computing
